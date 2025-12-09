@@ -1,0 +1,1 @@
+gcc -o .bob/bob_executable 
